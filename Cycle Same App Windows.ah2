@@ -1,0 +1,1 @@
+﻿!`::WinActivate("ahk_id " WinGetList("ahk_class " WinGetClass("A") " ahk_exe " WinGetProcessName(WinGetID("A"))).Pop())
