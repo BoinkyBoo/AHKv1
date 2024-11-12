@@ -1,1 +1,0 @@
-﻿Numpad0::ControlSend "{Space}","Chrome_RenderWidgetHostHWND1","ahk_exe Chrome.exe"
